@@ -51,8 +51,8 @@ Incorrect pwd:
 [-] Incorrect password: USER | <username>, PASSWORD: <password>
 ```
 ### Notes
-	•	This script is intended for educational purposes only. Use it only against systems you own or have explicit permission to test.
-	•	The script uses the FTP protocol, which is unencrypted. It is recommended to use secure FTP alternatives (such as FTPS or SFTP) to ensure secure communication.
+• This script is intended for educational purposes only. Use it only against systems you own or have explicit permission to test.
+• The script uses the FTP protocol, which is unencrypted. It is recommended to use secure FTP alternatives (such as FTPS or SFTP) to ensure secure communication.
 
 ⸻
 
