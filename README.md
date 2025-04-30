@@ -16,8 +16,8 @@ pip install ftplib
 ```
 • Username list (user.txt): A text file containing a list of possible usernames.
 • Password list (password.txt): A text file containing a list of possible passwords.
-Ensure that both files are in plain text format with each username and password on a new line.
 ```
+# Ensure that both files are in plain text format with each username and password on a new line.
 
 2. Set up the script:
 ```
