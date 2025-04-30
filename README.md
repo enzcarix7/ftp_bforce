@@ -12,15 +12,20 @@ pip install ftplib
 ```
 
 ### How to Use
-	1.	Prepare your wordlists:
-	•	Username list (user.txt): A text file containing a list of possible usernames.
-	•	Password list (password.txt): A text file containing a list of possible passwords.
+1 Prepare your wordlists:
+```
+• Username list (user.txt): A text file containing a list of possible usernames.
+• Password list (password.txt): A text file containing a list of possible passwords.
 Ensure that both files are in plain text format with each username and password on a new line.
-	2.	Set up the script:
-	•	Replace the value of the ip variable with the IP address of the FTP server you want to target.
-	•	Update the list_user and list_pass variables with the correct file paths to your username and password wordlists.
+```
 
-	3.	Run the script:
+2. Set up the script:
+```
+• Replace the value of the ip variable with the IP address of the FTP server you want to target.
+• Update the list_user and list_pass variables with the correct file paths to your username and password wordlists.
+```
+
+3. Run the script:
 
  ```
 python ftp_bruteforce.py
