@@ -12,7 +12,7 @@ pip install ftplib
 ```
 
 ### How to Use
-1 Prepare your wordlists:
+1. Prepare your wordlists:
 ```
 • Username list (user.txt): A text file containing a list of possible usernames.
 • Password list (password.txt): A text file containing a list of possible passwords.
